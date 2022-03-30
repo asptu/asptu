@@ -7,6 +7,7 @@
 ![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=Python&logoColor=white)
 ![JS](https://img.shields.io/badge/-Javascript-yellow?style=for-the-badge&logo=Javascript&logoColor=white) 
 ![Java](https://img.shields.io/badge/-Java-c42e23?style=for-the-badge&logo=Java&logoColor=white) 
+![AutoHotKey](https://img.shields.io/badge/-AutoHotKey-258520?style=for-the-badge&logo=AutoHotKey&logoColor=white) 
 
 ## programs i do
 
