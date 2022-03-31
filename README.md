@@ -26,5 +26,4 @@
 
 ## stat 📊
     
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=asptu&layout=compact&bg_color=0D1117&title_color=F0F6FC&text_color=F0F6FC&hide_border=true)
-
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=asptu&layout=compact&bg_color=0,cd3c18,613564&title_color=F0F6FC&text_color=F0F6FC&hide_border=true)
