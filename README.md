@@ -8,6 +8,7 @@
 ![JS](https://img.shields.io/badge/-Javascript-yellow?style=for-the-badge&logo=Javascript&logoColor=white) 
 ![Java](https://img.shields.io/badge/-Java-c42e23?style=for-the-badge&logo=Java&logoColor=white) 
 ![AutoHotKey](https://img.shields.io/badge/-AutoHotKey-258520?style=for-the-badge&logo=AutoHotKey&logoColor=white) 
+![Lua](https://img.shields.io/badge/-Lua-210db8?style=for-the-badge&logo=Lua&logoColor=white)
 
 ## programs i do 🖥️
 
