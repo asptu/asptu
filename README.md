@@ -19,7 +19,7 @@
 [![Adobe Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-7f39c4?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)](https://www.adobe.com/au/products/premiere.html)
 [![Fusion 360](https://img.shields.io/badge/Fusion%20360-d18e2a?style=for-the-badge&logo=Autodesk&logoColor=white)](https://www.autodesk.com/products/fusion-360/overview)
 [![Davinci Resolve](https://img.shields.io/badge/Davinci%20Resolve-9e1c27?style=for-the-badge&logo=Neo4J&logoColor=white)](https://www.blackmagicdesign.com/au/products/davinciresolve/)<!-- I couldn't find real not fake davinci resolve logo so i stole Neo4js -->
-[![Paint.net](https://img.shields.io/badge/Paint.net-2250ab?style=for-the-badge&logo=Rainmeter&logoColor=white)](https://www.getpaint.net/)<!-- paint.nert!!!!! -->
+ <!-- [![Paint.net](https://img.shields.io/badge/Paint.net-2250ab?style=for-the-badge&logo=Rainmeter&logoColor=white)](https://www.getpaint.net/)<!-- paint.nert!!!!! -->
 
 ## contact me for more dumbs things at.. 📞
 
