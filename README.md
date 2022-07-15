@@ -1,6 +1,6 @@
 # ello 👨‍🦲
 
-**i make things which don't work.**
+**i make things which barely work.**
 
 ## languages i barely speak ⌨️
 
