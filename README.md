@@ -23,7 +23,7 @@
 
 ## contact me for more dumbs things at.. 📞
 
-[![Discord](https://img.shields.io/badge/-Asptu%230003-7289DA?style=for-the-badge&logo=Discord&logoColor=white)](http://discord.com/app)
+[![Discord](https://img.shields.io/badge/-Asptu%230005-7289DA?style=for-the-badge&logo=Discord&logoColor=white)](http://discord.com/app)
 [![phon](https://img.shields.io/badge/-89548934989844466346ee_(phone)-2d2d2e?style=for-the-badge&logo=AlloCiné&logoColor=white)](https://xn--n3h.neocities.org)
 [![airtable](https://img.shields.io/badge/-e69a37?style=for-the-badge&logo=Airtable&logoColor=white)](https://au.pcmag.com/old-collaboration/49221/airtable)
 
