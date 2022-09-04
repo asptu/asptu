@@ -6,10 +6,10 @@
 
 [![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org/)
 [![JS](https://img.shields.io/badge/-Javascript-yellow?style=for-the-badge&logo=Javascript&logoColor=white)](https://www.javascript.com/)
-[![Java](https://img.shields.io/badge/-Java-c42e23?style=for-the-badge&logo=Java&logoColor=white)](https://java.com/en/)
+[![HTML](https://img.shields.io/badge/-HTML-d63d0f?style=for-the-badge&logo=HTML5&logoColor=white)](https://html.com/)
 [![AutoHotKey](https://img.shields.io/badge/-AutoHotKey-258520?style=for-the-badge&logo=AutoHotKey&logoColor=white)](https://www.autohotkey.com/)
 [![Lua](https://img.shields.io/badge/-Lua-210db8?style=for-the-badge&logo=Lua&logoColor=white)](https://www.lua.org/)
-[![HTML](https://img.shields.io/badge/-HTML-d63d0f?style=for-the-badge&logo=HTML5&logoColor=white)](https://html.com/)
+[![Godot](https://img.shields.io/badge/-GDScript-478CBF?style=for-the-badge&logo=Godot%20Engine&logoColor=white)](https://godotengine.org/)
 
 ## programs i do 🖥️
 
